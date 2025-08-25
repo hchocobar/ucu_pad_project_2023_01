@@ -1,17 +1,17 @@
-# Proyecto de expresiones regulares con Python 
+# Práctica de expresiones regulares con Python 
 
-Este repositorio contiene el enunciado de la práctica de la primera semana.
+Este repositorio contiene el enunciado de la práctica de la segunda semana.
 
 ## Modalidad de presentación
 
-1. Debes hacer un fork de este repositorio a tu cuenta de GitHub.
+1. Debes crear un nuevo repositorio en tu cuenta de GitHub a partir de este Template. Para ello utiliza el botón "Utilizar este template"
 2. Luego en tu repositorio, debes crear los archivos necesarios para resolver el proyecto.
 3. Finalmente, presentar en WebAsignatura el enlace de tu repositorio.
 
 ## Estructura
 
 - En el directorio `data` encontrarás los archivos `.html` necesarios para resolver el enunciado. Todos los archivos tienen un mismo formato. Puedes visualizarlos en un browser.
-- En el directorio notebooks deberás crear un archivo de Jupyter Notebook que resuelva este proyecto.
+- En el directorio `notebooks` deberás crear un archivo de Jupyter Notebook que resuelva este proyecto.
 
 ## Enunciado
 
